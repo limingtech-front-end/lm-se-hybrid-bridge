@@ -1,0 +1,24 @@
+{
+  "name": "lm-se-hybrid-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limingtech-front-end/lm-se-hybrid-bridge.git"
+  },
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-se-hybrid-bridge/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/lm-se-hybrid-bridge#readme",
+  "dependencies": {
+    "lm-na-bridge": "git+https://github.com/limingtech-front-end/lm-na-bridge.git",
+    "lm-ut-calc-platform-method": "git+https://github.com/limingtech-front-end/lm-ut-calc-platform-method.git",
+    "lm_wechat_bridge": "git+https://github.com/limingtech-front-end/lm-th-wx-bridge.git"
+  }
+}
